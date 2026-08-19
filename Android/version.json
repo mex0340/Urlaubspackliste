@@ -1,4 +1,5 @@
 {
-  "versionCode": 1.0.0,
-  "downloadUrl": "https://github.com/[DEIN_NAME]/[PROJEKT]/releases/latest"
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "downloadUrl": "https://github.com/mex0340/Urlaubspackliste/releases/latest"
 }
